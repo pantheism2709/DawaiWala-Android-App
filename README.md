@@ -1,7 +1,7 @@
 # DawaiWala-Android-App
 
 
-## DawaiWala  is a java based android application built using java,xml and for database and authentication firebase is used. In this app user needs to firstly Signup on the app for using the app, later the user can purchase the medicine by adding it to cart , User can book the appointment with doctors . For purchasing the selected medicine user needs to complete the payment from Payment section .On completing the Payment the user will redirect to the My dose Section where user can set alarm to get notify time to time for having doses.
+## DawaiWala  is a java based android application built using java,xml and for database and authentication firebase is used. In this app user needs to firstly Signup on the app for using the app, later the user can purchase the medicine by adding it to cart , User can book the appointment with doctors . For purchasing the selected medicine user needs to complete the payment from Payment section .On completing the Payment the user will redirect to the My dose Section where user can set alarm to get notify for time to time  having doses.
 
 ## SPLASH SCREEN
 ## ![Screenshot_2022-09-18-13-48-19-858_com example dawaiwala](https://user-images.githubusercontent.com/96466673/190921751-4f97bdfa-35b2-4f93-9204-8bcc25918919.jpg)
