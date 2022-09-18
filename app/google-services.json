@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461498898059",
+    "project_id": "dawaiwala-96b6b",
+    "storage_bucket": "dawaiwala-96b6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461498898059:android:ddc267c5053bd1cff3268e",
+        "android_client_info": {
+          "package_name": "com.example.dawaiwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461498898059-k2s4ud1aduf6d5645fbrhrtpv65ofrqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEepGq980YxOdYrwdFv4epQ5OANDDKgcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461498898059-k2s4ud1aduf6d5645fbrhrtpv65ofrqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

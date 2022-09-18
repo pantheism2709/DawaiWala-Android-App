@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DawaiWala</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="price_500">Price:-$500</string>
+    <string name="paracitamol">PARACITAMOL</string>
+</resources>
